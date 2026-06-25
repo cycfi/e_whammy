@@ -8510,7 +8510,7 @@
 				)
 			)
 		)
-		(property "Value" "3M"
+		(property "Value" "2.4M"
 			(at 191.135 127 90)
 			(effects
 				(font
